@@ -1,3 +1,5 @@
+/* Problem link :- https://www.codingninjas.com/codestudio/problems/next-permutaion_893046?topList=striver-sde-sheet-problems */
+
 #include <bits/stdc++.h> 
 vector<int> nextPermutation(vector<int> &permutation, int n)
 {

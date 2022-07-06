@@ -1,3 +1,5 @@
+/* Problem link :- https://www.codingninjas.com/codestudio/problems/ninja-and-sorted-arrays_1214628?topList=striver-sde-sheet-problems&leftPanelTab=0 */
+
 #include <bits/stdc++.h> 
 vector<int> ninjaAndSortedArrays(vector<int>& arr1, vector<int>& arr2, int m, int n) {
 	vector<int> ans;

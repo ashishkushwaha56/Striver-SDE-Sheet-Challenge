@@ -1,3 +1,5 @@
+/* Problem link :- https://www.codingninjas.com/codestudio/problems/rotate-matrix_981260?topList=striver-sde-sheet-problems&leftPanelTab=1 */
+
 #include <bits/stdc++.h> 
 
 int temp;
